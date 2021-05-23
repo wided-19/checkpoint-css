@@ -1,0 +1,79 @@
+body{
+  background-color: rgb(28, 160, 149)
+}
+  .w-2{
+    float: right;
+  }
+  .w-1{
+    display: inline;
+    padding: 100px 50PX ;
+    font-family: "roboto";
+    font-size: 20px;
+    color: rgb(95, 116, 160);
+  }
+  h1{
+    text-align: center;
+font-size: 50px;
+    padding-top: 200px;
+    color: rgb(13, 13, 65);
+  }
+  .w-3{
+    font-family: "roboto";
+    font-size: 20px;
+    color: rgb(18, 2, 43);
+  }
+  #Form{
+    color: darkblue;
+  }
+  #Mystudies{
+color: darkblue;
+  }
+  #MyContact{
+    color: darkblue;
+  }
+  .W-4{
+    font-family: "roboto";
+    font-size: 20px;
+    color: rgb(2, 40, 43);
+  }
+  
+.W-6{
+  font-family: "roboto";
+    font-size: 20px;
+    color: rgb(2, 40, 43);
+}
+table{
+  border: 2px dashed rgb(16, 19, 18)
+border:3px  border="1";
+  border-radius: 60px;
+  background-color: rgb(107, 173, 189);
+}
+  td{
+    font-size: 20px;
+  }
+/* unvisited link */
+a:link {
+  color: rgb(12, 7, 10);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(23, 18, 27);
+}
+
+/* mouse over element */
+div:hover {
+  color: rgb(28, 22, 32);
+} 
+
+/* selected link */
+a:active{
+  color: #0000FF
+}
+Aa
+/* Change the link color on hover */
+.w-1 a:hover {
+  padding: 14px 16px;
+  background-color: rgb(209, 183, 183);
+  color: white;
+  border-radius: 15px;
